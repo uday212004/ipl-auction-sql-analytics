@@ -111,5 +111,8 @@ Team Spending Efficiency Score
 Power BI Dashboard Development
 Predictive Auction Price Modeling
 -- Author
+Uday Deshmukh
+
+LinkedIN : https://www.linkedin.com/in/deshmukh-ud/
 
 Business Intelligence & Sports Analytics project focused on SQL, Database Design, KPI Development, and Decision-Making Insights using IPL Auction Data.
