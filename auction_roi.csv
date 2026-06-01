@@ -1,0 +1,154 @@
+PlayerName,SoldPrice,Role,TeamName,Nationality,BasePrice,CappedStatus,AuctionYear,LastName_x,Runs,BallsFaced,Sixes,Matches_Batting,Fours,StrikeRate,Wickets,Economy,Overs,Matches_Bowling,PerformanceScore,LastName_y
+Pankaj Singh,9000000,Bowler,Royal Challengers Bengaluru,Unknown,,Unknown,2013,singh,7.0,12.0,0.0,5.0,0.0,58.333333333333336,11.0,9.36,50.0,17.0,275.35,singh
+Sandeep Sharma,8500000,Bowler,Punjab Kings,Unknown,,Unknown,2014,sharma,54.0,70.0,0.0,25.0,4.0,77.14285714285715,137.0,7.885896527285613,470.3333333333333,126.0,3427.7,sharma
+Anureet Singh,2000000,Bowler,Punjab Kings,Unknown,,Unknown,2014,singh,36.0,47.0,1.0,8.0,2.0,76.59574468085107,18.0,9.072815533980583,68.66666666666667,22.0,451.8,singh
+Shivam Sharma,1000000,Bowler,Punjab Kings,Unknown,,Unknown,2014,sharma,5.0,3.0,0.0,2.0,1.0,166.66666666666669,4.0,8.68421052631579,19.0,5.0,100.25,sharma
+Karanveer Singh,1000000,All-Rounder,Punjab Kings,Unknown,,Unknown,2014,singh,12.0,17.0,0.0,4.0,1.0,70.58823529411765,12.0,9.441176470588236,34.0,9.0,300.6,singh
+Shakib Al Hasan,28000000,All-Rounder,Kolkata Knight Riders,Unknown,,Unknown,2014,hasan,795.0,639.0,21.0,52.0,73.0,124.4131455399061,63.0,7.435309973045822,247.33333333333334,70.0,1614.75,hasan
+Yuvraj Singh,140000000,All-Rounder,Royal Challengers Bengaluru,Unknown,,Unknown,2014,singh,2754.0,2122.0,149.0,126.0,218.0,129.78322337417532,36.0,7.436133486766398,144.83333333333334,73.0,1037.7,singh
+KL Rahul,10000000,Batsman,Sunrisers Hyderabad,Unknown,,Unknown,2014,rahul,4689.0,3485.0,187.0,122.0,400.0,134.54806312769009,0.0,0.0,0.0,0.0,234.45000000000002,rahul
+Yuvraj Singh,160000000,Batsman,Delhi Capitals,Unknown,,Unknown,2015,singh,2754.0,2122.0,149.0,126.0,218.0,129.78322337417532,36.0,7.436133486766398,144.83333333333334,73.0,1037.7,singh
+Ishan Kishan,3500000,Wicket Keeper,Gujarat Lions,Unknown,,Unknown,2016,kishan,2644.0,1946.0,119.0,99.0,255.0,135.86844809866392,0.0,0.0,0.0,0.0,132.20000000000002,kishan
+Swapnil Singh,1000000,All-Rounder,Punjab Kings,Unknown,,Unknown,2016,singh,51.0,45.0,3.0,9.0,3.0,113.33333333333333,7.0,8.925925925925926,27.0,14.0,177.55,singh
+Jaskaran Singh,1000000,Bowler,Rising Pune Supergiant,Unknown,,Unknown,2016,singh,8.0,11.0,0.0,4.0,0.0,72.72727272727273,6.0,10.058823529411764,17.0,7.0,150.4,singh
+Ankit Sharma,1000000,All-Rounder,Rising Pune Supergiant,Unknown,,Unknown,2016,sharma,87.0,67.0,4.0,10.0,7.0,129.8507462686567,12.0,7.3569482288828345,61.166666666666664,21.0,304.35,sharma
+Sachin Baby,1000000,Batsman,Royal Challengers Bengaluru,Unknown,,Unknown,2016,baby,144.0,118.0,5.0,11.0,11.0,122.03389830508475,2.0,4.8,1.6666666666666667,2.0,57.2,baby
+Yuvraj Singh,70000000,All-Rounder,Sunrisers Hyderabad,Unknown,,Unknown,2016,singh,2754.0,2122.0,149.0,126.0,218.0,129.78322337417532,36.0,7.436133486766398,144.83333333333334,73.0,1037.7,singh
+Mustafizur Rahman,14000000,Bowler,Sunrisers Hyderabad,Unknown,,Unknown,2016,rahman,13.0,23.0,1.0,6.0,0.0,56.52173913043478,61.0,8.133949191685913,216.5,57.0,1525.65,rahman
+Navdeep Saini,1000000,Bowler,Delhi Capitals,Unknown,,Unknown,2017,saini,33.0,37.0,0.0,7.0,3.0,89.1891891891892,24.0,8.705521472392638,108.66666666666667,31.0,601.65,saini
+Shashank Singh,1000000,All-Rounder,Delhi Capitals,Unknown,,Unknown,2017,singh,423.0,262.0,25.0,19.0,33.0,161.45038167938932,1.0,8.333333333333334,3.0,3.0,46.150000000000006,singh
+Basil Thampi,8500000,Bowler,Gujarat Lions,Unknown,,Unknown,2017,thampi,32.0,35.0,1.0,7.0,1.0,91.42857142857143,22.0,9.742802303262957,86.83333333333333,25.0,551.6,thampi
+T Natarajan,30000000,Bowler,Punjab Kings,Unknown,,Unknown,2017,natarajan,3.0,5.0,0.0,2.0,0.0,60.0,67.0,8.836200448765894,222.83333333333334,61.0,1675.15,natarajan
+Mohammed Siraj,26000000,Bowler,Sunrisers Hyderabad,Unknown,,Unknown,2017,siraj,109.0,119.0,4.0,20.0,10.0,91.59663865546219,94.0,8.647599591419816,326.3333333333333,93.0,2355.45,siraj
+Mohammad Nabi,3000000,All-Rounder,Sunrisers Hyderabad,Unknown,,Unknown,2017,nabi,221.0,152.0,12.0,19.0,18.0,145.39473684210526,15.0,7.438848920863309,69.5,23.0,386.05,nabi
+Harbhajan Singh,20000000,Bowler,Chennai Super Kings,Unknown,,Unknown,2018,singh,833.0,604.0,42.0,88.0,79.0,137.91390728476821,150.0,7.078454332552693,569.3333333333334,160.0,3791.65,singh
+Imran Tahir,10000000,Bowler,Chennai Super Kings,Unknown,,Unknown,2018,tahir,33.0,37.0,0.0,8.0,5.0,89.1891891891892,82.0,7.764437689969604,219.33333333333334,59.0,2051.65,tahir
+N Jagadeesan,2000000,Wicket Keeper,Chennai Super Kings,Unknown,,Unknown,2018,jagadeesan,162.0,147.0,2.0,10.0,21.0,110.20408163265304,0.0,0.0,0.0,0.0,8.1,jagadeesan
+Avesh Khan,7000000,Bowler,Delhi Capitals,Unknown,,Unknown,2018,khan,41.0,25.0,3.0,9.0,3.0,164.0,76.0,8.87191011235955,222.5,62.0,1902.05,khan
+Abhishek Sharma,5500000,All-Rounder,Delhi Capitals,Unknown,,Unknown,2018,sharma,1377.0,887.0,73.0,61.0,128.0,155.24239007891768,11.0,8.644444444444444,45.0,26.0,343.85,sharma
+KL Rahul,110000000,Batsman,Punjab Kings,Unknown,,Unknown,2018,rahul,4689.0,3485.0,187.0,122.0,400.0,134.54806312769009,0.0,0.0,0.0,0.0,234.45000000000002,rahul
+Yuvraj Singh,20000000,All-Rounder,Punjab Kings,Unknown,,Unknown,2018,singh,2754.0,2122.0,149.0,126.0,218.0,129.78322337417532,36.0,7.436133486766398,144.83333333333334,73.0,1037.7,singh
+Mayank Dagar,2000000,All-Rounder,Punjab Kings,Unknown,,Unknown,2018,dagar,0.0,1.0,0.0,1.0,0.0,0.0,2.0,8.89051094890511,22.833333333333332,8.0,50.0,dagar
+Shivam Mavi,30000000,All-Rounder,Kolkata Knight Riders,Unknown,,Unknown,2018,mavi,51.0,56.0,2.0,11.0,4.0,91.07142857142857,30.0,8.708782742681047,108.16666666666667,32.0,752.55,mavi
+Shubman Gill,18000000,Batsman,Kolkata Knight Riders,Unknown,,Unknown,2018,gill,3216.0,2370.0,95.0,99.0,310.0,135.69620253164555,0.0,0.0,0.0,0.0,160.8,gill
+Ishan Kishan,62000000,Wicket Keeper,Mumbai Indians,Unknown,,Unknown,2018,kishan,2644.0,1946.0,119.0,99.0,255.0,135.86844809866392,0.0,0.0,0.0,0.0,132.20000000000002,kishan
+Mustafizur Rahman,22000000,Bowler,Mumbai Indians,Unknown,,Unknown,2018,rahman,13.0,23.0,1.0,6.0,0.0,56.52173913043478,61.0,8.133949191685913,216.5,57.0,1525.65,rahman
+Mohsin Khan,2000000,Bowler,Mumbai Indians,Unknown,,Unknown,2018,khan,25.0,24.0,1.0,5.0,2.0,104.16666666666667,27.0,8.506172839506172,81.0,23.0,676.25,khan
+Anureet Singh,3000000,Bowler,Rajasthan Royals,Unknown,,Unknown,2018,singh,36.0,47.0,1.0,8.0,2.0,76.59574468085107,18.0,9.072815533980583,68.66666666666667,22.0,451.8,singh
+Ankit Sharma,2000000,All-Rounder,Rajasthan Royals,Unknown,,Unknown,2018,sharma,87.0,67.0,4.0,10.0,7.0,129.8507462686567,12.0,7.3569482288828345,61.166666666666664,21.0,304.35,sharma
+Navdeep Saini,30000000,Bowler,Royal Challengers Bengaluru,Unknown,,Unknown,2018,saini,33.0,37.0,0.0,7.0,3.0,89.1891891891892,24.0,8.705521472392638,108.66666666666667,31.0,601.65,saini
+Mohammed Siraj,26000000,Bowler,Royal Challengers Bengaluru,Unknown,,Unknown,2018,siraj,109.0,119.0,4.0,20.0,10.0,91.59663865546219,94.0,8.647599591419816,326.3333333333333,93.0,2355.45,siraj
+Mandeep Singh,14000000,All-Rounder,Royal Challengers Bengaluru,Unknown,,Unknown,2018,singh,1706.0,1388.0,38.0,97.0,176.0,122.91066282420748,0.0,13.0,2.0,2.0,85.30000000000001,singh
+Sandeep Sharma,30000000,Bowler,Sunrisers Hyderabad,Unknown,,Unknown,2018,sharma,54.0,70.0,0.0,25.0,4.0,77.14285714285715,137.0,7.885896527285613,470.3333333333333,126.0,3427.7,sharma
+Shakib Al Hasan,20000000,All-Rounder,Sunrisers Hyderabad,Unknown,,Unknown,2018,hasan,795.0,639.0,21.0,52.0,73.0,124.4131455399061,63.0,7.435309973045822,247.33333333333334,70.0,1614.75,hasan
+Mohammad Nabi,10000000,All-Rounder,Sunrisers Hyderabad,Unknown,,Unknown,2018,nabi,221.0,152.0,12.0,19.0,18.0,145.39473684210526,15.0,7.438848920863309,69.5,23.0,386.05,nabi
+Basil Thampi,9500000,Bowler,Sunrisers Hyderabad,Unknown,,Unknown,2018,thampi,32.0,35.0,1.0,7.0,1.0,91.42857142857143,22.0,9.742802303262957,86.83333333333333,25.0,551.6,thampi
+T Natarajan,4000000,Bowler,Sunrisers Hyderabad,Unknown,,Unknown,2018,natarajan,3.0,5.0,0.0,2.0,0.0,60.0,67.0,8.836200448765894,222.83333333333334,61.0,1675.15,natarajan
+Sachin Baby,2000000,Batsman,Sunrisers Hyderabad,Unknown,,Unknown,2018,baby,144.0,118.0,5.0,11.0,11.0,122.03389830508475,2.0,4.8,1.6666666666666667,2.0,57.2,baby
+Bipul Sharma,2000000,All-Rounder,Sunrisers Hyderabad,Unknown,,Unknown,2018,sharma,187.0,123.0,9.0,17.0,11.0,152.03252032520325,17.0,8.056338028169014,71.0,28.0,434.35,sharma
+Arshdeep Singh,2000000,Bowler,Punjab Kings,Unknown,,Unknown,2019,singh,29.0,40.0,0.0,11.0,4.0,72.5,76.0,9.026392961876832,227.33333333333334,65.0,1901.45,singh
+Harpreet Brar,2000000,All-Rounder,Punjab Kings,Unknown,,Unknown,2019,brar,233.0,190.0,9.0,24.0,19.0,122.63157894736842,25.0,7.908689248895434,113.16666666666667,39.0,636.65,brar
+Yuvraj Singh,10000000,All-Rounder,Mumbai Indians,Unknown,,Unknown,2019,singh,2754.0,2122.0,149.0,126.0,218.0,129.78322337417532,36.0,7.436133486766398,144.83333333333334,73.0,1037.7,singh
+Anmolpreet Singh,8000000,Batsman,Mumbai Indians,Unknown,,Unknown,2019,singh,139.0,115.0,3.0,9.0,19.0,120.8695652173913,0.0,0.0,0.0,0.0,6.95,singh
+Shashank Singh,3000000,All-Rounder,Rajasthan Royals,Unknown,,Unknown,2019,singh,423.0,262.0,25.0,19.0,33.0,161.45038167938932,1.0,8.333333333333334,3.0,3.0,46.150000000000006,singh
+Lalit Yadav,2000000,All-Rounder,Delhi Capitals,Unknown,,Unknown,2020,yadav,305.0,290.0,7.0,21.0,27.0,105.17241379310344,10.0,8.854166666666666,48.0,19.0,265.25,yadav
+Ravi Bishnoi,20000000,Bowler,Punjab Kings,Unknown,,Unknown,2020,bishnoi,32.0,50.0,0.0,14.0,2.0,64.0,63.0,7.807228915662651,235.16666666666666,65.0,1576.6,bishnoi
+M Siddharth,2000000,Bowler,Kolkata Knight Riders,Unknown,,Unknown,2020,siddharth,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.636363636363637,9.166666666666666,3.0,25.0,siddharth
+Mohsin Khan,2000000,Bowler,Mumbai Indians,Unknown,,Unknown,2020,khan,25.0,24.0,1.0,5.0,2.0,104.16666666666667,27.0,8.506172839506172,81.0,23.0,676.25,khan
+Kartik Tyagi,13000000,Bowler,Rajasthan Royals,Unknown,,Unknown,2020,tyagi,13.0,16.0,0.0,6.0,1.0,81.25,15.0,10.13744075829384,70.33333333333333,20.0,375.65,tyagi
+Anuj Rawat,8000000,Wicket Keeper,Rajasthan Royals,Unknown,,Unknown,2020,rawat,318.0,267.0,14.0,21.0,26.0,119.10112359550563,0.0,0.0,0.0,0.0,15.9,rawat
+Akash Singh,2000000,Bowler,Rajasthan Royals,Unknown,,Unknown,2020,singh,0.0,0.0,0.0,0.0,0.0,0.0,5.0,9.869565217391305,23.0,7.0,125.0,singh
+Virat Singh,19000000,Batsman,Sunrisers Hyderabad,Unknown,,Unknown,2020,singh,15.0,26.0,0.0,2.0,1.0,57.692307692307686,0.0,0.0,0.0,0.0,0.75,singh
+Abdul Samad,2000000,All-Rounder,Sunrisers Hyderabad,Unknown,,Unknown,2020,samad,579.0,397.0,36.0,39.0,37.0,145.84382871536522,2.0,12.555555555555555,9.0,5.0,78.95,samad
+Vishnu Vinod,2000000,Wicket Keeper,Delhi Capitals,Unknown,,Unknown,2021,vinod,56.0,57.0,3.0,6.0,3.0,98.24561403508771,0.0,0.0,0.0,0.0,2.8000000000000003,vinod
+M Siddharth,2000000,Bowler,Delhi Capitals,Unknown,,Unknown,2021,siddharth,0.0,0.0,0.0,0.0,0.0,0.0,1.0,7.636363636363637,9.166666666666666,3.0,25.0,siddharth
+Shakib Al Hasan,32000000,All-Rounder,Kolkata Knight Riders,Unknown,,Unknown,2021,hasan,795.0,639.0,21.0,52.0,73.0,124.4131455399061,63.0,7.435309973045822,247.33333333333334,70.0,1614.75,hasan
+Harbhajan Singh,20000000,Bowler,Kolkata Knight Riders,Unknown,,Unknown,2021,singh,833.0,604.0,42.0,88.0,79.0,137.91390728476821,150.0,7.078454332552693,569.3333333333334,160.0,3791.65,singh
+Arjun Tendulkar,2000000,All-Rounder,Mumbai Indians,Unknown,,Unknown,2021,tendulkar,13.0,9.0,1.0,1.0,0.0,144.44444444444443,3.0,9.36986301369863,12.166666666666666,5.0,75.65,tendulkar
+Mustafizur Rahman,10000000,Bowler,Rajasthan Royals,Unknown,,Unknown,2021,rahman,13.0,23.0,1.0,6.0,0.0,56.52173913043478,61.0,8.133949191685913,216.5,57.0,1525.65,rahman
+Akash Singh,2000000,Bowler,Rajasthan Royals,Unknown,,Unknown,2021,singh,0.0,0.0,0.0,0.0,0.0,0.0,5.0,9.869565217391305,23.0,7.0,125.0,singh
+Sachin Baby,2000000,Batsman,Royal Challengers Bengaluru,Unknown,,Unknown,2021,baby,144.0,118.0,5.0,11.0,11.0,122.03389830508475,2.0,4.8,1.6666666666666667,2.0,57.2,baby
+J Suchith,3000000,Bowler,Sunrisers Hyderabad,Unknown,,Unknown,2021,suchith,70.0,61.0,3.0,9.0,6.0,114.75409836065573,19.0,8.6,70.0,21.0,478.5,suchith
+Simarjeet Singh,2000000,Bowler,Chennai Super Kings,Indian,,Unknown,2022,singh,7.0,8.0,0.0,3.0,0.0,87.5,9.0,8.633333333333333,30.0,10.0,225.35,singh
+Mukesh Choudhary,2000000,Bowler,Chennai Super Kings,Indian,,Unknown,2022,choudhary,6.0,6.0,0.0,2.0,1.0,100.0,16.0,9.698924731182796,46.5,14.0,400.3,choudhary
+Mustafizur Rahman,20000000,Bowler,Delhi Capitals,Overseas,,Unknown,2022,rahman,13.0,23.0,1.0,6.0,0.0,56.52173913043478,61.0,8.133949191685913,216.5,57.0,1525.65,rahman
+Kuldeep Yadav,20000000,Bowler,Delhi Capitals,Indian,,Unknown,2022,yadav,183.0,216.0,3.0,32.0,16.0,84.72222222222221,87.0,8.206185567010309,291.0,82.0,2184.15,yadav
+Mandeep Singh,11000000,Batsman,Delhi Capitals,Indian,,Unknown,2022,singh,1706.0,1388.0,38.0,97.0,176.0,122.91066282420748,0.0,13.0,2.0,2.0,85.30000000000001,singh
+Lalit Yadav,6500000,All-Rounder,Delhi Capitals,Indian,,Unknown,2022,yadav,305.0,290.0,7.0,21.0,27.0,105.17241379310344,10.0,8.854166666666666,48.0,19.0,265.25,yadav
+Gurkeerat Singh,5000000,All-Rounder,Gujarat Titans,Indian,,Unknown,2022,singh,511.0,422.0,11.0,32.0,55.0,121.09004739336493,5.0,7.461538461538462,13.0,6.0,150.55,singh
+Avesh Khan,100000000,Bowler,Lucknow Super Giants,Indian,,Unknown,2022,khan,41.0,25.0,3.0,9.0,3.0,164.0,76.0,8.87191011235955,222.5,62.0,1902.05,khan
+Mohsin Khan,2000000,Bowler,Lucknow Super Giants,Indian,,Unknown,2022,khan,25.0,24.0,1.0,5.0,2.0,104.16666666666667,27.0,8.506172839506172,81.0,23.0,676.25,khan
+Ishan Kishan,152500000,Wicket Keeper,Mumbai Indians,Indian,,Unknown,2022,kishan,2644.0,1946.0,119.0,99.0,255.0,135.86844809866392,0.0,0.0,0.0,0.0,132.20000000000002,kishan
+Anmolpreet Singh,2000000,Batsman,Mumbai Indians,Indian,,Unknown,2022,singh,139.0,115.0,3.0,9.0,19.0,120.8695652173913,0.0,0.0,0.0,0.0,6.95,singh
+Basil Thampi,3000000,Bowler,Mumbai Indians,Indian,,Unknown,2022,thampi,32.0,35.0,1.0,7.0,1.0,91.42857142857143,22.0,9.742802303262957,86.83333333333333,25.0,551.6,thampi
+Sandeep Sharma,5000000,Bowler,Punjab Kings,Indian,,Unknown,2022,sharma,54.0,70.0,0.0,25.0,4.0,77.14285714285715,137.0,7.885896527285613,470.3333333333333,126.0,3427.7,sharma
+Atharva Taide,2000000,All-Rounder,Punjab Kings,Indian,,Unknown,2022,taide,247.0,168.0,8.0,9.0,27.0,147.02380952380955,0.0,24.0,0.16666666666666666,1.0,12.350000000000001,taide
+Navdeep Saini,26000000,Bowler,Rajasthan Royals,Indian,,Unknown,2022,saini,33.0,37.0,0.0,7.0,3.0,89.1891891891892,24.0,8.705521472392638,108.66666666666667,31.0,601.65,saini
+Dhruv Jurel,2000000,Wicket Keeper,Rajasthan Royals,Indian,,Unknown,2022,jurel,347.0,229.0,16.0,22.0,29.0,151.528384279476,0.0,0.0,0.0,0.0,17.35,jurel
+Tejas Baroka,2000000,Bowler,Rajasthan Royals,Indian,,Unknown,2022,baroka,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.428571428571429,3.5,1.0,0.0,baroka
+Anuj Rawat,34000000,Wicket Keeper,Royal Challengers Bengaluru,Indian,,Unknown,2022,rawat,318.0,267.0,14.0,21.0,26.0,119.10112359550563,0.0,0.0,0.0,0.0,15.9,rawat
+Washington Sundar,87500000,All-Rounder,Sunrisers Hyderabad,Indian,,Unknown,2022,sundar,378.0,325.0,9.0,38.0,32.0,116.3076923076923,37.0,7.5426944971537,175.66666666666666,58.0,943.9,sundar
+Abhishek Sharma,65000000,All-Rounder,Sunrisers Hyderabad,Indian,,Unknown,2022,sharma,1377.0,887.0,73.0,61.0,128.0,155.24239007891768,11.0,8.644444444444444,45.0,26.0,343.85,sharma
+Vishnu Vinod,5000000,Wicket Keeper,Sunrisers Hyderabad,Indian,,Unknown,2022,vinod,56.0,57.0,3.0,6.0,3.0,98.24561403508771,0.0,0.0,0.0,0.0,2.8000000000000003,vinod
+Kartik Tyagi,40000000,Bowler,Sunrisers Hyderabad,Indian,,Unknown,2022,tyagi,13.0,16.0,0.0,6.0,1.0,81.25,15.0,10.13744075829384,70.33333333333333,20.0,375.65,tyagi
+Fazalhaq Farooqi,5000000,Bowler,Sunrisers Hyderabad,Overseas,,Unknown,2022,farooqi,3.0,13.0,0.0,2.0,0.0,23.076923076923077,6.0,8.960526315789474,25.333333333333332,7.0,150.15,farooqi
+Shashank Singh,2000000,All-Rounder,Sunrisers Hyderabad,Indian,,Unknown,2022,singh,423.0,262.0,25.0,19.0,33.0,161.45038167938932,1.0,8.333333333333334,3.0,3.0,46.150000000000006,singh
+Mukesh Kumar,55000000,Bowler,Delhi Capitals,Indian,,Unknown,2023,kumar,10.0,18.0,0.0,5.0,0.0,55.55555555555556,25.0,10.436090225563909,66.5,20.0,625.5,kumar
+Shivam Mavi,60000000,Bowler,Gujarat Titans,Indian,,Unknown,2023,mavi,51.0,56.0,2.0,11.0,4.0,91.07142857142857,30.0,8.708782742681047,108.16666666666667,32.0,752.55,mavi
+Shakib Al Hasan,15000000,All-Rounder,Kolkata Knight Riders,Overseas,,Unknown,2023,hasan,795.0,639.0,21.0,52.0,73.0,124.4131455399061,63.0,7.435309973045822,247.33333333333334,70.0,1614.75,hasan
+Mandeep Singh,5000000,Batsman,Kolkata Knight Riders,Indian,,Unknown,2023,singh,1706.0,1388.0,38.0,97.0,176.0,122.91066282420748,0.0,13.0,2.0,2.0,85.30000000000001,singh
+Suyash Sharma,2000000,Bowler,Kolkata Knight Riders,Indian,,Unknown,2023,sharma,0.0,0.0,0.0,0.0,0.0,0.0,10.0,8.651162790697674,43.0,13.0,250.0,sharma
+Swapnil Singh,2000000,All-Rounder,Lucknow Super Giants,Indian,,Unknown,2023,singh,51.0,45.0,3.0,9.0,3.0,113.33333333333333,7.0,8.925925925925926,27.0,14.0,177.55,singh
+Yash Thakur,4500000,Bowler,Lucknow Super Giants,Indian,,Unknown,2023,thakur,0.0,0.0,0.0,0.0,0.0,0.0,24.0,10.262376237623764,67.33333333333333,19.0,600.0,thakur
+Vishnu Vinod,2000000,Wicket Keeper,Mumbai Indians,Indian,,Unknown,2023,vinod,56.0,57.0,3.0,6.0,3.0,98.24561403508771,0.0,0.0,0.0,0.0,2.8000000000000003,vinod
+Shivam Singh,2000000,All-Rounder,Punjab Kings,Indian,,Unknown,2023,singh,2.0,3.0,0.0,1.0,0.0,66.66666666666666,0.0,0.0,0.0,0.0,0.1,singh
+Mohit Rathee,2000000,All-Rounder,Punjab Kings,Indian,,Unknown,2023,rathee,1.0,2.0,0.0,1.0,0.0,50.0,0.0,14.5,2.0,1.0,0.05,rathee
+Sikandar Raza,5000000,All-Rounder,Punjab Kings,Overseas,,Unknown,2023,raza,182.0,136.0,8.0,9.0,12.0,133.8235294117647,3.0,9.882352941176471,14.166666666666666,7.0,84.1,raza
+Sanvir Singh,2000000,All-Rounder,Sunrisers Hyderabad,Indian,,Unknown,2023,singh,25.0,21.0,1.0,5.0,2.0,119.04761904761905,0.0,0.0,0.0,0.0,1.25,singh
+Anmolpreet Singh,2000000,Batsman,Sunrisers Hyderabad,Indian,,Unknown,2023,singh,139.0,115.0,3.0,9.0,19.0,120.8695652173913,0.0,0.0,0.0,0.0,6.95,singh
+Vivrant Sharma,26000000,All-Rounder,Sunrisers Hyderabad,Indian,,Unknown,2023,sharma,69.0,47.0,2.0,1.0,9.0,146.80851063829786,0.0,12.333333333333334,3.0,2.0,3.45,sharma
+Mayank Dagar,18000000,All-Rounder,Sunrisers Hyderabad,Indian,,Unknown,2023,dagar,0.0,1.0,0.0,1.0,0.0,0.0,2.0,8.89051094890511,22.833333333333332,8.0,50.0,dagar
+Mustafizur Rahman,20000000,Bowler,Chennai Super Kings,Overseas,,Unknown,2024,rahman,13.0,23.0,1.0,6.0,0.0,56.52173913043478,61.0,8.133949191685913,216.5,57.0,1525.65,rahman
+Sameer Rizvi,84000000,Batsman,Chennai Super Kings,Indian,,Unknown,2024,rizvi,51.0,43.0,2.0,5.0,4.0,118.6046511627907,0.0,0.0,0.0,0.0,2.5500000000000003,rizvi
+Sumit Kumar,10000000,All-Rounder,Delhi Capitals,Indian,,Unknown,2024,kumar,18.0,24.0,1.0,3.0,2.0,75.0,0.0,11.4,3.3333333333333335,2.0,0.9,kumar
+Kumar Kushagra,72000000,Wicket Keeper,Delhi Capitals,Indian,,Unknown,2024,kushagra,3.0,7.0,0.0,3.0,0.0,42.857142857142854,0.0,0.0,0.0,0.0,0.15000000000000002,kushagra
+Kartik Tyagi,6000000,Bowler,Gujarat Titans,Indian,,Unknown,2024,tyagi,13.0,16.0,0.0,6.0,1.0,81.25,15.0,10.13744075829384,70.33333333333333,20.0,375.65,tyagi
+Azmatullah Omarzai,5000000,All-Rounder,Gujarat Titans,Overseas,,Unknown,2024,omarzai,42.0,33.0,2.0,4.0,2.0,127.27272727272727,4.0,8.857142857142858,21.0,7.0,102.1,omarzai
+Mohammad Nabi,15000000,All-Rounder,Mumbai Indians,Overseas,,Unknown,2024,nabi,221.0,152.0,12.0,19.0,18.0,145.39473684210526,15.0,7.438848920863309,69.5,23.0,386.05,nabi
+Naman Dhir,2000000,All-Rounder,Mumbai Indians,Indian,,Unknown,2024,dhir,140.0,79.0,10.0,7.0,12.0,177.2151898734177,0.0,11.785714285714285,4.666666666666667,3.0,7.0,dhir
+Ashutosh Sharma,2000000,All-Rounder,Punjab Kings,Indian,,Unknown,2024,sharma,189.0,113.0,15.0,9.0,10.0,167.2566371681416,0.0,0.0,0.0,0.0,9.450000000000001,sharma
+Swapnil Singh,2000000,All-Rounder,Royal Challengers Bengaluru,Indian,,Unknown,2024,singh,51.0,45.0,3.0,9.0,3.0,113.33333333333333,7.0,8.925925925925926,27.0,14.0,177.55,singh
+Akash Singh,2000000,Bowler,Sunrisers Hyderabad,Indian,,Unknown,2024,singh,0.0,0.0,0.0,0.0,0.0,0.0,5.0,9.869565217391305,23.0,7.0,125.0,singh
+Noor Ahmad,100000000,Unknown,Chennai Super Kings,Overseas,20000000.0,Capped,2025,ahmad,13.0,18.0,0.0,5.0,2.0,72.22222222222221,24.0,8.036585365853659,82.0,23.0,600.65,ahmad
+Mukesh Choudhary,3000000,Unknown,Chennai Super Kings,Indian,3000000.0,Uncapped,2025,choudhary,6.0,6.0,0.0,2.0,1.0,100.0,16.0,9.698924731182796,46.5,14.0,400.3,choudhary
+KL Rahul,140000000,Unknown,Delhi Capitals,Indian,20000000.0,Capped,2025,rahul,4689.0,3485.0,187.0,122.0,400.0,134.54806312769009,0.0,0.0,0.0,0.0,234.45000000000002,rahul
+Mukesh Kumar,80000000,Unknown,Delhi Capitals,Overseas,20000000.0,Capped,2025,kumar,10.0,18.0,0.0,5.0,0.0,55.55555555555556,25.0,10.436090225563909,66.5,20.0,625.5,kumar
+Ashutosh Sharma,38000000,Unknown,Delhi Capitals,Indian,3000000.0,Uncapped,2025,sharma,189.0,113.0,15.0,9.0,10.0,167.2566371681416,0.0,0.0,0.0,0.0,9.450000000000001,sharma
+Sameer Rizvi,9500000,Unknown,Delhi Capitals,Indian,3000000.0,Uncapped,2025,rizvi,51.0,43.0,2.0,5.0,4.0,118.6046511627907,0.0,0.0,0.0,0.0,2.5500000000000003,rizvi
+Washington Sundar,32000000,Unknown,Gujarat Titans,Indian,20000000.0,Capped,2025,sundar,378.0,325.0,9.0,38.0,32.0,116.3076923076923,37.0,7.5426944971537,175.66666666666666,58.0,943.9,sundar
+Kumar Kushagra,6500000,Unknown,Gujarat Titans,Indian,3000000.0,Uncapped,2025,kushagra,3.0,7.0,0.0,3.0,0.0,42.857142857142854,0.0,0.0,0.0,0.0,0.15000000000000002,kushagra
+Anuj Rawat,3000000,Unknown,Gujarat Titans,Indian,3000000.0,Uncapped,2025,rawat,318.0,267.0,14.0,21.0,26.0,119.10112359550563,0.0,0.0,0.0,0.0,15.9,rawat
+Rahmanullah Gurbaz,20000000,Unknown,Kolkata Knight Riders,Overseas,20000000.0,Capped,2025,gurbaz,289.0,216.0,19.0,13.0,24.0,133.7962962962963,0.0,0.0,0.0,0.0,14.450000000000001,gurbaz
+Avesh Khan,97500000,Unknown,Lucknow Super Giants,Indian,20000000.0,Capped,2025,khan,41.0,25.0,3.0,9.0,3.0,164.0,76.0,8.87191011235955,222.5,62.0,1902.05,khan
+Akash Deep,80000000,Unknown,Lucknow Super Giants,Indian,10000000.0,Capped,2025,deep,19.0,12.0,1.0,3.0,2.0,158.33333333333331,7.0,11.670731707317074,27.333333333333332,8.0,175.95,deep
+Abdul Samad,42000000,Unknown,Lucknow Super Giants,Indian,3000000.0,Uncapped,2025,samad,579.0,397.0,36.0,39.0,37.0,145.84382871536522,2.0,12.555555555555555,9.0,5.0,78.95,samad
+Akash Singh,3000000,Unknown,Lucknow Super Giants,Indian,3000000.0,Uncapped,2025,singh,0.0,0.0,0.0,0.0,0.0,0.0,5.0,9.869565217391305,23.0,7.0,125.0,singh
+Naman Dhir,52500000,Unknown,Mumbai Indians,Overseas,3000000.0,Uncapped,2025,dhir,140.0,79.0,10.0,7.0,12.0,177.2151898734177,0.0,11.785714285714285,4.666666666666667,3.0,7.0,dhir
+Arshdeep Singh,180000000,Unknown,Punjab Kings,Overseas,20000000.0,Capped,2025,singh,29.0,40.0,0.0,11.0,4.0,72.5,76.0,9.026392961876832,227.33333333333334,65.0,1901.45,singh
+Azmatullah Omarzai,24000000,Unknown,Punjab Kings,Overseas,15000000.0,Capped,2025,omarzai,42.0,33.0,2.0,4.0,2.0,127.27272727272727,4.0,8.857142857142858,21.0,7.0,102.1,omarzai
+Yash Thakur,16000000,Unknown,Punjab Kings,Indian,3000000.0,Uncapped,2025,thakur,0.0,0.0,0.0,0.0,0.0,0.0,24.0,10.262376237623764,67.33333333333333,19.0,600.0,thakur
+Vishnu Vinod,9500000,Unknown,Punjab Kings,Indian,3000000.0,Uncapped,2025,vinod,56.0,57.0,3.0,6.0,3.0,98.24561403508771,0.0,0.0,0.0,0.0,2.8000000000000003,vinod
+Fazalhaq Farooqi,20000000,Unknown,Rajasthan Royals,Overseas,20000000.0,Capped,2025,farooqi,3.0,13.0,0.0,2.0,0.0,23.076923076923077,6.0,8.960526315789474,25.333333333333332,7.0,150.15,farooqi
+Akash Madhwal,12000000,Unknown,Rajasthan Royals,Indian,3000000.0,Uncapped,2025,madhwal,4.0,5.0,0.0,1.0,0.0,80.0,20.0,9.709923664122138,43.666666666666664,13.0,500.2,madhwal
+Suyash Sharma,26000000,Unknown,Royal Challengers Bengaluru,Indian,3000000.0,Uncapped,2025,sharma,0.0,0.0,0.0,0.0,0.0,0.0,10.0,8.651162790697674,43.0,13.0,250.0,sharma
+Swapnil Singh,5000000,Unknown,Royal Challengers Bengaluru,Overseas,3000000.0,Uncapped,2025,singh,51.0,45.0,3.0,9.0,3.0,113.33333333333333,7.0,8.925925925925926,27.0,14.0,177.55,singh
+Mohit Rathee,3000000,Unknown,Royal Challengers Bengaluru,Indian,3000000.0,Uncapped,2025,rathee,1.0,2.0,0.0,1.0,0.0,50.0,0.0,14.5,2.0,1.0,0.05,rathee
+Ishan Kishan,112500000,Unknown,Sunrisers Hyderabad,Indian,20000000.0,Capped,2025,kishan,2644.0,1946.0,119.0,99.0,255.0,135.86844809866392,0.0,0.0,0.0,0.0,132.20000000000002,kishan
+Simarjeet Singh,15000000,Unknown,Sunrisers Hyderabad,Indian,3000000.0,Uncapped,2025,singh,7.0,8.0,0.0,3.0,0.0,87.5,9.0,8.633333333333333,30.0,10.0,225.35,singh
+Sachin Baby,3000000,Unknown,Sunrisers Hyderabad,Indian,3000000.0,Uncapped,2025,baby,144.0,118.0,5.0,11.0,11.0,122.03389830508475,2.0,4.8,1.6666666666666667,2.0,57.2,baby
+Atharva Taide,3000000,Unknown,Sunrisers Hyderabad,Indian,3000000.0,Uncapped,2025,taide,247.0,168.0,8.0,9.0,27.0,147.02380952380955,0.0,24.0,0.16666666666666666,1.0,12.350000000000001,taide
+Mustafizur Rahman,92000000,Unknown,Kolkata Knight Riders,Overseas,20000000.0,Capped,2026,rahman,13.0,23.0,1.0,6.0,0.0,56.52173913043478,61.0,8.133949191685913,216.5,57.0,1525.65,rahman
+Akash Deep,10000000,Unknown,Kolkata Knight Riders,Indian,10000000.0,Capped,2026,deep,19.0,12.0,1.0,3.0,2.0,158.33333333333331,7.0,11.670731707317074,27.333333333333332,8.0,175.95,deep
+Kartik Tyagi,3000000,Unknown,Kolkata Knight Riders,Indian,3000000.0,Uncapped,2026,tyagi,13.0,16.0,0.0,6.0,1.0,81.25,15.0,10.13744075829384,70.33333333333333,20.0,375.65,tyagi
+Ravi Bishnoi,72000000,Unknown,Rajasthan Royals,Indian,20000000.0,Capped,2026,bishnoi,32.0,50.0,0.0,14.0,2.0,64.0,63.0,7.807228915662651,235.16666666666666,65.0,1576.6,bishnoi
+Shivam Mavi,7500000,Unknown,Sunrisers Hyderabad,Indian,7500000.0,Capped,2026,mavi,51.0,56.0,2.0,11.0,4.0,91.07142857142857,30.0,8.708782742681047,108.16666666666667,32.0,752.55,mavi
